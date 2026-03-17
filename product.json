@@ -638,4 +638,27 @@
       "default": false
     }
   }
+"extensionPack": [
+    "ms-python.python",
+    "ms-vscode.cpptools",
+    "rust-lang.rust-analyzer",
+    "golang.go",
+    "vscjava.vscode-java-pack",
+    "ms-dotnettools.csdevkit",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bmewburn.vscode-intelephense-client",
+    "sswp.swift-lang",
+    "fwcd.kotlin",
+    "shopify.ruby-lsp",
+    "mtxr.sqltools",
+    "ms-azuretools.vscode-docker",
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one",
+    "reditorsupport.r",
+    "sumneko.lua",
+    "bradlc.vscode-tailwindcss",
+    "eamodio.gitlens",
+    "usernamehw.errorlens"
+  ]
 }
